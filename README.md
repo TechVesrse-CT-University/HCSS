@@ -76,6 +76,8 @@ ________________________________________
 	Enables interactive and engaging quiz competitions
 	Simple and user-friendly interface 
 	Built using Javascript,React.js,Mongo Db
+![Screenshot 2025-04-11 044903](https://github.com/user-attachments/assets/f30b2699-a42d-465a-a06c-9df190170caf)
+
  
 Instruction page
 	Quiz name: Capital hunt
@@ -84,26 +86,34 @@ Instruction page
 	Each question must be answered within 30 seconds
 	Do not switch tabs or open other windows during quiz it will lead to auto submission
 	Clear navigation with Start Quiz 
- 
+
+ ![Screenshot 2025-04-11 044929](https://github.com/user-attachments/assets/46170dff-cf76-4321-9a4b-d1a629d041a7)
+
 Login Page
 	Separate login for Students and Teachers
 	Role-based dashboard access
 	Secure authentication(password salting)
 	One-click log-in to start the quiz journey
 	User have to enter email id and password
+
  
-Interactive Quiz Interface : 
+Interactive Quiz Interface : ![Screenshot 2025-04-11 044959](https://github.com/user-attachments/assets/9ebb845e-dccf-454f-858b-ab43b1c27668)
+
 	Displays one question at a time with 4 multiple-choice options.
 	Allows navigation using "PREV" and "NEXT" buttons.
 	(Highlights selected answer for visual clarity.)
 	Ensures accuracy and fairness in response selection.
+
  
-Quiz Completion
+Quiz Completion![Screenshot 2025-04-11 045424](https://github.com/user-attachments/assets/cc003fb3-f372-43ee-9baa-31cf0b1e845b)
+
 	Final screen confirms quiz submission.
 	Displays an elated message: "Quiz Completed ✅".
 	Shows total score (e.g., “Score 10/10”) to give instant feedback.
 	Logout button ensures a secure user exit.
- 
+
+ ![Screenshot 2025-04-11 045616](https://github.com/user-attachments/assets/32b78cf8-fc81-4fa2-a2c3-f1deebe15cf9)
+
 Teacher Dashboard
 	Add Students: Input student details, stored in MongoDB
 	Live Student List: View added students instantlywith their name,email address
@@ -116,8 +126,10 @@ Secure Enrollment
 	Each student gets personal login credentials
 	Ensures  secure access to quizzes
 	Full control for teacher over who can participate
+
  
-Display Added Students
+Display Added Students![Screenshot 2025-04-11 045740](https://github.com/user-attachments/assets/dba17e1e-b557-49ab-aeae-cb08086e4d46)
+
 	Student Info Displayed
 	Name,Email and Phone Number
  
@@ -129,12 +141,15 @@ Add Quiz
 	Submit to save quiz in MongoDB
  
 Why Quizoo Stands Apart?
-	Controlled Access – Only teachers add students. No outsiders.
+	Controlled Access – Only teachers ad![Screenshot 2025-04-11 045814](https://github.com/user-attachments/assets/e0a6d3fe-ff04-4c6e-a4ea-82ccc8499fd7)
+d students. No outsiders.
 	AI-Generated Quizzes – Smart questions with GenAI.
 	Secure Login – Password salting. Hack-proof.
 	No Tab Switching – Cheating? Auto-submission kicks in.
-________________________________________
-  Authors
+________________________________________![Screenshot 2025-04-11 045915](https://github.com/user-attachments/assets/45a871be-9601-4a4e-9756-cc78f2738fd6)
+
+  Authors![Screenshot 2025-04-11 045853](https://github.com/user-attachments/assets/0b4ea46c-5474-43b7-a91f-3688619d6c59)
+
 •	Harshal sharma
 •	Charanjot Singh
 •	Simarjot kaur
