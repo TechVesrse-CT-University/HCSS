@@ -1,0 +1,72 @@
+.mn{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 800px;
+    margin-top: 20px;
+    margin-left: 225px;
+    margin-right: 5px;
+}
+.addquiz{
+   
+    display: flex;
+}
+.aai{
+    border: 2px solid white;
+    margin-left:135px;
+    display: flex;
+  flex-direction: column;
+    
+    margin-top: 160px;
+    height: 400px;
+    width: 500px;
+   
+    background-color: rgb(35, 54, 84);
+    color: white;
+    border-radius: 15px 15px 15px 15px;
+}
+.bd{
+    border:white 2px solid;
+    width: 500px;
+    border-radius: 23px;
+    height: 800px;
+}
+.adiz{
+    text-align: center;
+    font-size: 30px;
+    background-color:rgb(35, 54, 84) ;
+    padding: 10px;
+    border-radius: 23px 23px 0px 0px;
+    height: 70px;
+}
+.cnt{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.txt{
+    margin-left: 10px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.qsinp{
+    margin-top: 10px;
+    height: 44px;
+    width: 370px;
+    border-radius: 14px;
+    margin-left: 10px;
+    color: black;
+    border: 2px solid  rgb(31, 6, 58);
+    padding: 10px;
+}
+.bb{
+    border: 2px solid white;
+    margin-top: 10px;
+    width: 180px;
+    background-color:rgb(35, 54, 84) ;
+    padding: 10px; 
+margin-left: 50px;
+}

@@ -1,0 +1,21 @@
+.bg{
+    background:linear-gradient(70deg,rgb(16, 16, 84),rgb(14, 110, 161));
+   height: 873px;
+   
+}
+.wt{
+    background:linear-gradient(70deg,rgb(100, 100, 234),rgb(135, 172, 193));
+    height: 100vh;
+}
+.bl{
+    background-color: (35, 54, 84);
+}
+.bgbtn{
+    height: 60px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(23, 49, 145);
+    width: 280px;
+    border: 2px solid white;
+    margin-left: 10px;
+}

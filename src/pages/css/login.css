@@ -1,0 +1,82 @@
+.parent{
+    border:2px black solid;
+    background: linear-gradient(70deg,rgb(16, 16, 84),rgb(14, 110, 161));
+    color: white;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.frm{
+    backdrop-filter: blur(90px);
+  border: 2px white solid;
+  border-radius: 20px;
+    height: 500px;
+    width: 400px;
+    color:white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+   backdrop-filter: blur(100);
+  
+}
+.hd{
+    border-radius: 20px 20px 0px 0px;
+    text-align: center;
+   font-size: 35px;
+   font-weight: 600;
+    height: 70px;
+ padding: 10px;
+ width: 390px;
+background-color: rgb(35, 54, 84);
+    color:white;
+
+}
+.em{
+    margin-left: 10px;
+margin-top: 30px;
+width: 370px;
+height: 100px;
+
+}
+.emin{
+    font-size: larger;
+    
+}
+.inp{
+   margin-top: 10px;
+    height: 40px;
+    width: 370px;
+    padding: 10px;
+    border-radius:20px ;
+    color: rgb(49, 4, 49);
+    background-color: rgb(31, 6, 58);
+}
+.inp{
+    background-color: white;
+color:rgb(31, 6, 58);
+border: white 2px solid;
+
+}
+.inp::placeholder{
+   color: rgb(31, 6, 58);
+}
+.sb{
+    width: 370px;
+    background:transparent;
+    color:white; 
+    height: 40px;
+    border-radius: 20px;
+    border: 2px white solid;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(35, 54, 84);
+}
+.sb:hover{
+    background-color: rgb(91, 148, 221);
+    color:white;
+    font-weight:700;
+}

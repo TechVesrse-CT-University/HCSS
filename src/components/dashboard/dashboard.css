@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.leader{
+    padding-top: 10px;
+    text-align: center;
+   border-bottom: 2px solid white;
+margin-top: 0px;
+    height: 80px;
+    font-size: 30px;
+    font-size: 40px;
+}
+.dasharea{
+   margin-left: 6px;
+   margin-right: 6px;
+margin-top: 20px;
+    height: 700px;
+}
+tr{
+    text-align: center;
+    height: 60px;
+    border: 2px solid white;
+   
+}
+.tt:hover{
+    background-color: white;
+    color:rgb(23, 49, 145) ;
+}

@@ -1,0 +1,48 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.mv{
+  
+    height: 500px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-top: 90px;
+}
+.adhd{
+    background-color:rgb(35, 54, 84);
+border-radius: 13px 13px 0px 0px;
+height: 60px;
+padding: 6px;
+font-size: 29px;
+width: 377px;
+}
+.fld{
+    margin-top: 15px;
+    height: 50px;
+    padding: 10px;
+    width: 360px;
+margin-top: 25px;
+}
+.addob{
+    height: 30px;
+    margin-top: 30px;
+font-size: 20px;
+}
+.ht{
+   color: black;
+    height: 35px;
+}
+.sbtn{
+    height: 40px;
+    width: 200px;
+    margin-top: 50px;
+   
+    background-color:rgb(35, 54, 84) ; 
+}
+input::placeholder{
+    color: black;
+    padding: 10px;
+}
