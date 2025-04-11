@@ -1,6 +1,6 @@
 const UserModel = require("../models/userModel");
 const bcryptjs = require("bcryptjs");
-const email = "teacher@gmail.com";
+const email = "harshal12@gmail.com";
 
 UserModel.findOne({ email: email })
 .then((res) => {
